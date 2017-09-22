@@ -1,0 +1,24 @@
+{
+    "name": "theodo-extension-pack",
+    "displayName": "theodo-extension-pack",
+    "description": "code faster",
+    "version": "0.0.1",
+    "publisher": "theodo",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "donjayamanne.python",
+        "himanoa.python-autopep8",
+        "msjsdiag.debugger-for-chrome",
+        "christian-kohler.npm-intellisense",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "vsmobile.vscode-react-native",
+        "eamodio.gitlens",
+        "naumovs.color-highlight"
+    ]
+}
