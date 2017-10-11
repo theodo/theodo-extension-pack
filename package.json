@@ -15,6 +15,7 @@
         "himanoa.python-autopep8",
         "msjsdiag.debugger-for-chrome",
         "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "vsmobile.vscode-react-native",
