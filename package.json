@@ -20,6 +20,10 @@
         "esbenp.prettier-vscode",
         "vsmobile.vscode-react-native",
         "eamodio.gitlens",
-        "naumovs.color-highlight"
+        "naumovs.color-highlight",
+        "leizongmin.node-module-intellisense",
+        "felixfbecker.php-intellisense",
+        "Zignd.html-css-class-completion",
+        "rebornix.project-snippets"
     ]
 }
