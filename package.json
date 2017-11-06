@@ -2,7 +2,7 @@
     "name": "theodo-extension-pack",
     "displayName": "theodo-extension-pack",
     "description": "code faster",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "theodo",
     "engines": {
         "vscode": "^1.16.0"
