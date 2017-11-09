@@ -11,7 +11,7 @@
         "Extension Packs"
     ],
     "extensionDependencies": [
-        "donjayamanne.python",
+        "ms-python.python",
         "himanoa.python-autopep8",
         "msjsdiag.debugger-for-chrome",
         "christian-kohler.npm-intellisense",
