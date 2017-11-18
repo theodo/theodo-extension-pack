@@ -24,6 +24,8 @@
         "leizongmin.node-module-intellisense",
         "felixfbecker.php-intellisense",
         "Zignd.html-css-class-completion",
-        "rebornix.project-snippets"
+        "rebornix.project-snippets",
+        "flowtype.flow-for-vsc",
+        "Orta.vscode-jest"
     ]
 }
