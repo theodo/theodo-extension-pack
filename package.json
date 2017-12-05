@@ -26,6 +26,7 @@
         "Zignd.html-css-class-completion",
         "rebornix.project-snippets",
         "flowtype.flow-for-vsc",
-        "Orta.vscode-jest"
+        "Orta.vscode-jest",
+        "jpoissonnier.vscode-styled-components"
     ]
 }
